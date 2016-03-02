@@ -48,3 +48,4 @@ end
 # solidus
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'solidus_i18n'
